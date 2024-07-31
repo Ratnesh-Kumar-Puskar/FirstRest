@@ -76,7 +76,8 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>first-rest-api</finalName>
+		<finalName>bootdocker</finalName>
+		
 	</build>
 
 </project>
